@@ -5,4 +5,8 @@ Veri yapıları ile adres işlemleri
 
 ![b](https://user-images.githubusercontent.com/58693641/72542319-9e432980-388c-11ea-9aba-8b91387be67f.JPG)
 
+Dizinin ters çevrilmiş hali
+
+![c](https://user-images.githubusercontent.com/58693641/72542445-d5b1d600-388c-11ea-9a63-2bd38c9b0cb8.JPG)
+
 
