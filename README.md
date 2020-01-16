@@ -1,3 +1,3 @@
 # Adres-Islemleri
 Veri yapıları ile adres işlemleri
-![Screenshot](screenshot.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
